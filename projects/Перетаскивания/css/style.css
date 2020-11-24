@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #282E33;
+    height: 2000px;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.ball { 
+    width: 150px;
+    height: 150px;
+    background: url("../img/ball.png") no-repeat center;
+    background-size: 100%;  
+}
+.volleyball {
+    background: url("../img/ballV.png") no-repeat center;
+    background-size: 100%;
+    width: 200px;
+    height: 200px;
+}
+.basketball {
+    background: url("../img/ballB.png") no-repeat center;
+    background-size: 100%;   
+}

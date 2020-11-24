@@ -1,0 +1,23 @@
+.block {
+    width: 72px;
+    height: 72px;
+    border: 1px solid black;
+    margin: 20px;
+    transition: 0.2s;
+}
+.green {
+    background-color: #00FF00;
+}
+.yellow {
+    background-color: #FFDB00;
+}
+.orange {
+    background-color: #FF6E52;
+}
+.gray {
+    background-color: gray;
+}
+.row {
+    display: flex;
+    justify-content: center;
+}
